@@ -37,7 +37,7 @@ Simply press the download button on this page, then proceed to press 'Download a
 2. To do this you need to navigate to the following page: [git-scm.com](https://git-scm.com/).
 3. You should then hit the download button which can be found on that page.
 4. After downloading, install the software as you would any other (just hit next...)
-5. Navigate to your desired directory in Terminal/Command Prompt and execute the following command - 
+5. Navigate to your desired directory in Terminal or Command Prompt and execute the following command -  
 ```git clone https://github.com/slavkobojanic/CmonOptus```
 6. If you check the folder that you designated to put it in; you should see a folder called 'CmonOptus'.
 
