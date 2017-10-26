@@ -25,7 +25,7 @@ All four dependencies can be installed with Python's package manager, [pip](http
 Once you have pip installed, you can install the four dependencies with:
 
 ```
-pip install pyspeedtest tweepy pyyaml plotly
+pip install pyspeedtest tweepy pyyaml
 ```
 
 #### Option 2 - Installing VirtualENV for contained environment
