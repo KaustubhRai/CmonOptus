@@ -74,7 +74,7 @@ Simply press the download button on this page, then proceed to press 'Download a
 6. If you check the folder that you designated to put it in; you should see a folder called 'CmonOptus'.
 
 ## Part B - Creating a Twitter App
-1. Head to the [Twitter App Site](https://app.twitter.com/).
+1. Head to the [Twitter App Site](https://apps.twitter.com/).
 2. Hit 'Create New App'.
 3. Fill in the form displayed (only name, description, and website are needed), and agree to the developer agreement.
 4. Hit 'Create App'.
