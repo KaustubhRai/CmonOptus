@@ -7,9 +7,6 @@ from random import randint
 import pyspeedtest
 import tweepy
 import yaml
-import plotly.plotly as py
-import plotly.graph_objs as go
-
 
 def readConfig(filepath='config.yaml'):
     with open(filepath, 'r') as f:
