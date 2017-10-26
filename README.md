@@ -8,6 +8,7 @@ These users helped me improve this script.
 - [gregsifr](https://github.com/gregsifr)
 - [sp0](https://github.com/sp0)
 - [NickelOz](https://github.com/NickelOz)
+- [jantaylor](https://github.com/jantaylor)
 
 ## Dependencies
 - [pyspeedtest](https://github.com/fopina/pyspeedtest)
